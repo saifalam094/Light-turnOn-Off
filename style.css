@@ -1,0 +1,38 @@
+.main-heading{
+    margin: 0px;
+    /* background-color: blue; */
+}
+*{
+    margin :0px;
+    padding: 0px;
+    box-sizing:border-box;
+
+}
+body{
+    background-color: pink;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: blue;
+
+    /* text-align:centre; */
+}
+h1{
+    color:#fff;
+    background-color: aqua;
+     padding-left: 25px;
+     margin-bottom: 50px;
+    
+}
+button{
+    background-color: rgb(24, 129, 220);
+    border: 3px solid grey;
+    border-radius: 6px;
+    color: blueviolet;
+    padding: 5px;
+    margin: 10px;
+    font-weight: bold;
+    margin-right: 50px;
+    cursor: pointer;
+}
